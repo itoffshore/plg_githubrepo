@@ -71,7 +71,7 @@ class plgContentGithubrepo extends JPlugin
                 {
                     if ($jquery)
                     {
-                        $document->addScript('//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js');
+                        $document->addScript('//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js');
                     }
                 }
                 else
